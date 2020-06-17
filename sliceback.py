@@ -12,3 +12,6 @@ print(letters[-4:])
 print(letters[-1:])
 print(letters[:1])
 print(letters[0])
+
+parts = ["computer", "monitor", "mouse"]
+print(parts[1])
