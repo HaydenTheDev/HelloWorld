@@ -12,3 +12,6 @@ split over
 several
 lines"""
 print(anotherSplitString)
+print(r"C:\Users\haydenbazor\notes.txt")
+print("C:\\Users\\haydenbazor\\notes.txt")
+
