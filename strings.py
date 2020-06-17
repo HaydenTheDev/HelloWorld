@@ -1,0 +1,5 @@
+print("Today is a good day to learn python")
+print("Python is fun")
+print("Python strings are easy to learn")
+print('We can actually put "strings" inside of strings')
+print("hello" + "world")
